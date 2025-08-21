@@ -6,7 +6,7 @@
 
 ---
 
-## ⚡ Tech Stack  
+## Tech Stack  
 <p>
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-FFCC00?style=flat&logo=javascript&logoColor=000000" />
@@ -31,25 +31,24 @@
   <!-- C++ -->
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=ffffff" />
 </p>
-</p>
 
 
 
 ---
 
-## 🚀 Projects  
+## Projects  
 🔹 **Codifica** — An AI-powered coding support tool designed to help Spanish-speaking beginners learn to code.  
 It provides real-time explanations, resources, and support — helping bridge the language gap in tech.
 
 ---
 
-## 💡 A little about me  
-Colombian-American | FGLI student 
+## A little about me  
+Colombian-American | FGLI student  
 I love building projects that have **real community impact**, collaborating with peers, and always learning something new. When I’m not coding, you’ll probably find me dancing, roller skating, or watching anime.
 
 ---
 
-## 🌐 Connect  
+## Connect  
 <p>
   <a href="https://www.linkedin.com/in/joanna-ep/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
