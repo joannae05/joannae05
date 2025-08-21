@@ -8,7 +8,7 @@
 
 ## ⚡ Tech Stack  
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/JavaScript-darkgoldenrod?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=java" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react" />
