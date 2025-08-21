@@ -1,23 +1,53 @@
-# 👋 Hello, I'm Joanna Echeverri Porras
+# 👋 Hola, I'm Joanna Echeverri Porras  
 
-🎓 I'm currently a Computer Science student at Northwestern University and a previous SWE Intern at Salesforce (FTL Intern).
-💻 I love building impactful projects that help my community and push my skills forward.
+🎓 Rising Junior @ Northwestern University (Computer Science)  
+💻 Future Software Engineer | Passionate about making tech & education more accessible  
+🌟 Past SWE Intern @ Salesforce (Futureforce Tech Launchpad)  
 
-## Skills & Technologies
-React Express Node.js PostgreSQL Java JavaScript Python Web Development
+---
 
-## Projects
-🔹 Codifica
-An AI-driven learning platform designed to help non-native English speakers learn how to code.
-It provides real-time feedback, resources, and support — all tailored for Spanish-speaking students.
+## ⚡ Skills & Technologies  
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Backend-Express-black?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge&logo=postgresql" />
+</p>
 
-## About Me
-I’m deeply passionate about programming, learning, and building projects that matter. I love collaborating with peers, sharing ideas, and pushing boundaries with code. I’m always chasing the next opportunity to learn something new or create something useful.
+---
 
-## Connect with me
-LinkedIn Email
+## 🚀 Projects  
 
-⭐️ Thanks for visiting my profile!
+🔹 **Codifica**  
+An AI-powered coding support tool designed to help Spanish-speaking beginners learn to code.  
+It provides real-time explanations, resources, and support — helping bridge the language gap in tech.  
+
+---
+
+## 💡 About Me  
+I’m a Colombian-American, FGLI student passionate about **expanding access to education and tech**.  
+On campus, I serve as:  
+- 🎯 **External Coordinator** @ [Emerging Coders](#) (supporting FGLI & underrepresented CS students)  
+- 📚 **Director of Education** @ [FutureDev](#) (helping peers gain real-world CS skills through mentorship & projects)  
+
+I love building projects that have **real community impact**, collaborating with peers, and always learning something new. When I’m not coding, you’ll probably find me 🎶 dancing, 🛼 roller skating, or 🎬 watching anime.  
+
+---
+
+## 🌐 Connect with me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/joanna-ep/">
+    <img src="https://img.shields.io/badge/LinkedIn-Joanna%20Echeverri%20Porras-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:joannaecheverrip@gmail.com">
+    <img src="https://img.shields.io/badge/Email-joannaecheverrip%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+⭐ Thanks for visiting my profile!
 <!--
 **joannae05/joannae05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
