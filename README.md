@@ -25,6 +25,12 @@
   
   <!-- PostgreSQL -->
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=ffffff" />
+  <!-- C -->
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=ffffff" />
+
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=ffffff" />
+</p>
 </p>
 
 
