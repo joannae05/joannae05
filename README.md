@@ -8,12 +8,12 @@
 
 ## ⚡ Tech Stack  
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=java" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql" />
 </p>
 
 ---
