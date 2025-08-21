@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B" />
   
   <!-- Java -->
-  <img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=java&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=openjdk&logoColor=ffffff" />
   
   <!-- React -->
   <img src="https://img.shields.io/badge/React-087EA4?style=flat&logo=react&logoColor=61DAFB" />
