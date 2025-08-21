@@ -38,7 +38,7 @@
 
 ## Projects  
 🔹 **Codifica** — An AI-powered coding support tool designed to help Spanish-speaking beginners learn to code.  
-It provides real-time explanations, resources, and support — helping bridge the language gap in tech.
+It provides real-time explanations, resources, and support, helping bridge the language gap in tech.
 
 ---
 
