@@ -9,18 +9,24 @@
 ## ⚡ Tech Stack  
 <p align="center">
   <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/JavaScript-FFD580?style=flat&logo=javascript&logoColor=F7DF1E" />
+  
   <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-ADD8E6?style=flat&logo=python&logoColor=306998" />
+  
   <!-- Java -->
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-FFB6B9?style=flat&logo=java&logoColor=white" />
+  
   <!-- React -->
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React-C5F6FA?style=flat&logo=react&logoColor=61DAFB" />
+  
   <!-- Node.js -->
-  <img src="https://img.shields.io/badge/Node.js-333?style=flat&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Node.js-C1FBA4?style=flat&logo=node.js&logoColor=339933" />
+  
   <!-- PostgreSQL -->
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-B9D6F2?style=flat&logo=postgresql&logoColor=336791" />
 </p>
+
 
 ---
 
