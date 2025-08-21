@@ -7,7 +7,7 @@
 ---
 
 ## ⚡ Tech Stack  
-<p align="center">
+<p>
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-FFCC00?style=flat&logo=javascript&logoColor=000000" />
   
@@ -44,7 +44,7 @@ Always learning & building something new 💜
 ---
 
 ## 🌐 Connect  
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/joanna-ep/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
