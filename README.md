@@ -1,4 +1,4 @@
-# 👋 Hola, I'm Joanna Echeverri Porras
+# 👋 Hey, I'm Joanna Echeverri Porras
 
 🎓 CS @ Northwestern University  
 💻 SWE Intern @ Salesforce (Futureforce Tech Launchpad ‘25)  
@@ -38,14 +38,14 @@
 ---
 
 ## 🚀 Projects  
-🔹 **Codifica** — AI-powered coding support tool for Spanish-speaking learners.  
+🔹 **Codifica** — An AI-powered coding support tool designed to help Spanish-speaking beginners learn to code.  
+It provides real-time explanations, resources, and support — helping bridge the language gap in tech.
 
 ---
 
 ## 💡 A little about me  
-Colombian-American 🇨🇴 | FGLI student ✨  
-I love coding, dancing 🎶, roller skating 🛼, and anime 🎬.  
-Always learning & building something new 💜  
+Colombian-American | FGLI student 
+I love building projects that have **real community impact**, collaborating with peers, and always learning something new. When I’m not coding, you’ll probably find me dancing, roller skating, or watching anime.
 
 ---
 
