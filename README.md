@@ -33,12 +33,13 @@ Always learning & building something new 💜
 ## 🌐 Connect  
 <p align="center">
   <a href="https://www.linkedin.com/in/joanna-ep/">
-    <img src="https://img.shields.io/badge/LinkedIn-Joanna%20Echeverri-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:joannaecheverrip@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" />
   </a>
 </p>
+
 
 ⭐ thanks for stopping by!
 
