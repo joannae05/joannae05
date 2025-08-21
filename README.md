@@ -49,7 +49,7 @@ Always learning & building something new 💜
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:joannaecheverrip@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lightred?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-FF6F61?style=flat&logo=gmail&logoColor=EA4335" />
   </a>
 </p>
 
