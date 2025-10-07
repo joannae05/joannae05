@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Joanna Echeverri Porras
 
 🎓 CS @ Northwestern University  
-💻 SWE Intern @ Salesforce (Futureforce Tech Launchpad ‘25)  
+💻 Prev. Intern @ Salesforce (Futureforce Tech Launchpad ‘25)  
 🌟 Building projects that make tech more accessible  
 
 ---
